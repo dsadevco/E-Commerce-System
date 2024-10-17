@@ -13,33 +13,28 @@ Project Structure
 Project Structure
 
 com.ecommerce
-│
-├── EcommerceController.java   # Main method to run the system
-│
-├── Products
-│   ├── Product.java
-│   ├── ProductService.java
-│   ├── ProductController.java
-│   └── ProductDAO.java
-│
-├── Orders
-│   ├── Order.java
-│   ├── OrderService.java
-│   ├── OrderController.java
-│   └── OrderDAO.java
-│
-├── User
-│   ├── User.java
-│   ├── UserService.java
-│   ├── UserController.java
-│   └── UserDAO.java
-│
-└── Payments
-    ├── Payment.java
-    ├── PaymentService.java
-    ├── PaymentController.java
-    └── PaymentDAO.java
 
+    EcommerceController.java - Main method to run the system
+    Products
+        Product.java
+        ProductService.java
+        ProductController.java
+        ProductDAO.java
+    Orders
+        Order.java
+        OrderService.java
+        OrderController.java
+        OrderDAO.java
+    User
+        User.java
+        UserService.java
+        UserController.java
+        UserDAO.java
+    Payments
+        Payment.java
+        PaymentService.java
+        PaymentController.java
+        PaymentDAO.java
 
 
 Expected Output
