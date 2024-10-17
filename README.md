@@ -10,8 +10,6 @@ Features
 
 Project Structure
 
-bash
-
 com.ecommerce
 │
 ├── EcommerceController.java   # Main method to run the system
@@ -40,9 +38,8 @@ com.ecommerce
     ├── PaymentController.java
     └── PaymentDAO.java
 
-Expected Output
 
-sql
+Expected Output
 
 User Name: Nobnob  
 Product Purchased: Laptop  
@@ -50,6 +47,7 @@ Order Created: Order ID 111003 for product Laptop
 Payment Process for order 111003 using Credit Card  
 Transaction Completed  
 Thank you for shopping with us!  
+ 
 
 Usage
 
