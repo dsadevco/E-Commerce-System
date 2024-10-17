@@ -10,6 +10,8 @@ Features
 
 Project Structure
 
+Project Structure
+
 com.ecommerce
 │
 ├── EcommerceController.java   # Main method to run the system
@@ -37,6 +39,7 @@ com.ecommerce
     ├── PaymentService.java
     ├── PaymentController.java
     └── PaymentDAO.java
+
 
 
 Expected Output
